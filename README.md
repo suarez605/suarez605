@@ -3,8 +3,8 @@
 I am Álvaro Suárez, a Software Engineer from Madrid, Spain. I am mainly a Backend developer in languages such as Java and Python but I am also interested in many more things like Cybersecurity, Big Data and Artificial Intelligence.
 I am also a self-taught photographer and I really like the intelligence world in fields like SIGINT, HUMINT and IMINT.
 
-- 🔭 I am a ETSIINF UPM Student. Also doing some work as a Backend Lead dev on KANARA SPORTS.
-- 🌱 I’m currently learning FastAPI, also learning about Cyberintelligence.
+- 🔭 I am a ETSIINF UPM Student. At this moment working on Globant as Python Software Engineer.
+- 🌱 I’m currently learning FastAPI, Cyberintelligence, Software and Cloud Architectures and Backend.
 - 👯 I’m looking to collaborate on free software projects or any disruptive idea to build a startup.
 - 💬 Ask me about anything related to Computer Science or about any subject from the Computer Engineering Degree at ETSIINF.
 - 📫 How to reach me: Twitter: @suarez605
